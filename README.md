@@ -9,12 +9,12 @@ Este projeto foi desenvolvido com o objetivo de criar uma interface web funciona
 
 O repositório **Saúde Humanizada Web** é fruto de um projeto extensionista realizado no Instituto Presbiteriano Mackenzie. A aplicação foca na construção de uma interface front-end utilizando tecnologias fundamentais da web para exercitar conceitos de design, acessibilidade e estruturação de documentos.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **HTML5:** Estruturação semântica de todas as páginas e seções.
 * **CSS3:** Estilização visual, layouts e responsividade para garantir uma boa experiência em diferentes dispositivos.
 
-## 🚀 Como Visualizar
+## Como Visualizar
 
 Como este é um projeto estático, você pode visualizá-lo facilmente:
 
@@ -33,11 +33,11 @@ Como este é um projeto estático, você pode visualizá-lo facilmente:
 * `NOVA Saúde Humanizada/`: Contém os arquivos de desenvolvimento (HTML e CSS).
 * `README.md`: Documentação do projeto.
 
-## 🎓 Contexto Acadêmico
+## Contexto Acadêmico
 
 Este projeto foi desenvolvido durante o **1º Semestre** do curso de **Sistemas de Informação (S.I)** no **Instituto Presbiteriano Mackenzie**, integrando a disciplina de Desenvolvimento Web.
 
-## 👩‍💻 Autora
+## Autora
 
 * **Stephanie Soares**
 
