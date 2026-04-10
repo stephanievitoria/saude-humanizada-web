@@ -42,4 +42,4 @@ Este projeto foi desenvolvido durante o **1º Semestre** do curso de **Sistemas 
 * **Stephanie Soares**
 
 ---
-*Projeto expansionista focado em tecnologia e impacto social.*
+*Projeto extensionista focado em tecnologia e impacto social.*
