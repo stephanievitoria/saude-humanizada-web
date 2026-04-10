@@ -5,7 +5,7 @@
 
 Este projeto foi desenvolvido com o objetivo de criar uma interface web funcional e visualmente acolhedora, focada na temática de atendimento humanizado na área da saúde.
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O repositório **Saúde Humanizada Web** é fruto de um projeto extensionista realizado no Instituto Presbiteriano Mackenzie. A aplicação foca na construção de uma interface front-end utilizando tecnologias fundamentais da web para exercitar conceitos de design, acessibilidade e estruturação de documentos.
 
