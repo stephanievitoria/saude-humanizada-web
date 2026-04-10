@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com o objetivo de criar uma interface web funciona
 
 ## Sobre o Projeto
 
-O repositório **Saúde Humanizada Web** é fruto de um projeto extensionista realizado no Instituto Presbiteriano Mackenzie. A aplicação foca na construção de uma interface front-end utilizando tecnologias fundamentais da web para exercitar conceitos de design, acessibilidade e estruturação de documentos.
+Saúde Humanizada é um projeto extensionista realizado na Universidade Presbiteriana Mackenzie. A aplicação foca na construção de uma interface front-end utilizando tecnologias fundamentais da web para exercitar conceitos de design, acessibilidade e estruturação de documentos.
 
 ## Tecnologias Utilizadas
 
@@ -35,11 +35,11 @@ Como este é um projeto estático, você pode visualizá-lo facilmente:
 
 ## Contexto Acadêmico
 
-Este projeto foi desenvolvido durante o **1º Semestre** do curso de **Sistemas de Informação (S.I)** no **Instituto Presbiteriano Mackenzie**, integrando a disciplina de Desenvolvimento Web.
+Este projeto foi desenvolvido durante o **1º Semestre** do curso de **Sistemas de Informação** na **Universidade Presbiteriana Mackenzie**, integrando a disciplina de Desenvolvimento Web.
 
 ## Autora
 
 * **Stephanie Soares**
 
 ---
-*Projeto acadêmico focado em tecnologia e impacto social.*
+*Projeto expansionista focado em tecnologia e impacto social.*
